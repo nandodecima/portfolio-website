@@ -15,8 +15,8 @@ const Projects = () => {
     },
     {
       title: 'Gloss – Music Collaboration Platform',
-      description: 'Gloss is a web-based platform designed to help musicians, producers, and audio engineers connect and collaborate effortlessly. Users can upload tracks, exchange ideas, and work together in real-time, breaking down the barriers of remote music creation. With an intuitive interface and streamlined workflow, Gloss makes it easy to bring creative visions to life, whether you’re co-producing a song, giving feedback, or building something new with other artists.',
-      extra:'Coming Soon!'
+      description: 'Gloss is a web-based platform designed to help musicians, producers, and audio engineers connect and collaborate effortlessly. Users can upload tracks, exchange ideas, and work together in real-time, breaking down the barriers of remote music creation. With an intuitive interface and streamlined workflow, Gloss makes it easy to bring creative visions to life, whether you’re co-producing a song, giving feedback, or building something new with other artists...Coming Soon!',
+      link:'https://space-battle-simulator.netlify.app/'
     },
     
     
@@ -32,7 +32,6 @@ const Projects = () => {
             <h3>{project.title}</h3>
             <p>{project.description}</p>
             <a href={project.link}>Explore</a>
-            <p>{project.extra}</p>
           </div>
         ))}
       </div>

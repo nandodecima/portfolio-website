@@ -224,6 +224,11 @@
   .project-card p {
     color: var(--light-text);
   }
+  .project-card a {
+    color: var(--soft-purple);
+    text-shadow: var(--glow);
+    
+  }
   
   /* Contact Page */
   .contact {

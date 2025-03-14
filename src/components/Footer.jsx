@@ -12,13 +12,9 @@ const Footer = () => {
         >
           <i className="fab fa-linkedin"></i> {/* LinkedIn icon */}
         </a>
-        {/* <a
-          href="https://github.com/your-github-username" // Replace with your GitHub URL
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          GitHub
-        </a> */}
+        <a href="https://github.com/nandodecima" target="_blank">
+    <i class="fab fa-github"></i> 
+        </a>
       </div>
     </footer>
   );
