@@ -10,7 +10,7 @@ const Projects = () => {
     },
     {
       title: 'Space Battle Simulator',
-      description: 'Space Battle Simulator is a simple yet fun web-based game where players and enemies exchange attacks at random with the press of a button. Each battle unfolds unpredictably, making every round a unique experience. This project highlights basic game logic, user interaction, and randomness in JavaScript.',
+      description: 'Space Battle Simulator is a simple yet fun web-based game where players and enemies exchange attacks at random with the press of a button. Each battle unfolds unpredictably, making every round a unique experience. This project highlights basic game logic, user interaction, and randomness in JavaScript. Additionally, it features interactive sound effects that I personally recorded and sampled, enhancing the immersive experience of the battle.',
       link:'https://space-battle-simulator.netlify.app/'
     },
     {
