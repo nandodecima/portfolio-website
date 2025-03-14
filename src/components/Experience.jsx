@@ -30,6 +30,10 @@ const Experience = () => {
   <strong>Education</strong><br />
   <em>University of California, Santa Barbara</em><br />
   - Bachelor’s Degree in Art with a focus on Media & Technology<br />
+  <br></br>
+  <em>pointblank Music School</em><br />
+    - Mixing/Mastering Certification<br />
+    - Sound Design Certification<br />
 </p>
 </p>
     </div>
