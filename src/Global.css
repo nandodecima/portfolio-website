@@ -1,0 +1,95 @@
+/* src/Global.css */
+
+/* Global Styles */
+body {
+    background-color: #1a1a1a; /* Dark background */
+    color: #e0e0e0; /* Light grey text for contrast */
+    font-family: 'Roboto', sans-serif; /* A modern, sharp font */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  h1, h2, p {
+    text-shadow: 0 0 10px rgba(0, 255, 255, 0.5), 0 0 20px rgba(0, 255, 255, 0.5);
+  }
+  
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  /* Navigation Button Link Styles */
+  .cyberpunk-link {
+    background-color: #ff007f; /* Neon pink for cyberpunk feel */
+    color: #fff;
+    font-size: 1rem;
+    padding: 12px 24px;
+    border-radius: 8px;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
+    transition: all 0.3s ease;
+    box-shadow: 0 0 15px rgba(255, 0, 127, 0.8), 0 0 30px rgba(255, 0, 127, 0.8);
+  }
+  
+  /* Hover effect for links */
+  .cyberpunk-link:hover {
+    background-color: #ff1493; /* Lighter neon pink */
+    box-shadow: 0 0 30px rgba(255, 0, 127, 1), 0 0 50px rgba(255, 0, 127, 1);
+    transform: translateY(-4px); /* Slight lift */
+  }
+  
+  .cyberpunk-link:active {
+    background-color: #e60073; /* Darker pink on click */
+    box-shadow: 0 0 20px rgba(255, 0, 127, 0.6), 0 0 40px rgba(255, 0, 127, 0.6);
+    transform: translateY(0); /* Reset lift when clicked */
+  }
+  
+  /* Adjusting for focus */
+  .cyberpunk-link:focus {
+    outline: none;
+    box-shadow: 0 0 5px 2px rgba(255, 0, 127, 1);
+  }
+  
+  /* Spacing and layout tweaks */
+  nav {
+    display: flex;
+    justify-content: center;
+    gap: -10px;
+    margin-bottom: 20px;
+  }
+
+  /* src/styles/Global.css */
+
+/* Style the links for a cyberpunk theme */
+a {
+    color: #00ffaa; /* Neon green color for the links */
+    text-decoration: none; /* Remove default underline */
+    font-weight: bold; /* Make the links bold */
+    letter-spacing: 1px;
+    transition: all 0.3s ease; /* Smooth transition for hover effects */
+  }
+  
+  a:hover {
+    color: #ff007f; /* Neon pink color on hover */
+    text-decoration: underline; /* Underline on hover */
+    text-shadow: 0 0 10px #00ff88, 0 0 20px #00ff88, 0 0 30px #ff007f; /* Neon glow effect on hover */
+  }
+  
+  /* Active state for links */
+  a:active {
+    color: #e60073; /* Darker pink for the active link */
+    text-shadow: 0 0 5px #ff007f, 0 0 10px #ff007f; /* Subtle glow on click */
+  }
+  
+  /* Add hover effects to navigation links specifically */
+  nav a {
+    margin: 0 1rem; /* Space between the links */
+    font-size: 1.2rem; /* Slightly bigger font for visibility */
+  }
+  
+  nav a:hover {
+    transform: scale(1.1); /* Scale up slightly on hover for emphasis */
+  }
+  
