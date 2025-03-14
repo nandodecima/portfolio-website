@@ -5,7 +5,7 @@ const Projects = () => {
   const projects = [
     {
       title: 'Personal Portfolio Website',
-      description: 'I designed and developed my personal portfolio website from the ground up to showcase my work, skills, and projects. Built with modern web technologies like react.js (vite), the site features an intuitive layout, responsive design, and a clean aesthetic to provide an engaging user experience. This project demonstrates my ability to create functional, visually appealing web applications while emphasizing performance and usability.',
+      description: 'I designed and developed my personal portfolio website from the ground up to showcase my work, skills, and projects. Built with modern web technologies like react.js (vite), the site features an intuitive layout, responsive design, and a clean aesthetic to provide an engaging user experience.',
       link: 'https://nandodecima-portfolio.netlify.app/',
     },
     {
