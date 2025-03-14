@@ -18,7 +18,7 @@ body {
     width: 2px; /* Default size */
     height: 2px; /* Default size */
     background: white;
-    border-radius: 50%;
+    border-radius: 100%;
     box-shadow: 0 0 5px rgba(255, 255, 255, 0.8);
     animation: twinkle 3s infinite ease-in-out;
   }
@@ -141,7 +141,7 @@ body {
   }
   
   .home h1 {
-    font-size: 2.5rem;
+    font-size: 5rem;
     color: var(--soft-blue);
     text-shadow: var(--glow);
   }
