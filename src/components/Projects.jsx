@@ -8,6 +8,7 @@ const Projects = () => {
       description: 'A free platform for artists to collaborate online. Built with JavaScript, React, Node.js, and PostgreSQL.',
       link: '#',
     },
+    
     // Add more projects here
   ];
 

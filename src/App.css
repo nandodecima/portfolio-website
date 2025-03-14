@@ -113,7 +113,7 @@ body {
   /* Navbar */
   nav {
     display: flex;
-    font-family: 'Roboto';
+    font-family: sans-serif;
     justify-content: center;
     padding: 15px;
     width: 100%;
