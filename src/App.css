@@ -286,7 +286,7 @@ body {
     }
 
     .home h1 {
-        font-size: 3rem;
+        font-size: 2rem;
     }
 
     .home p {
@@ -314,7 +314,7 @@ body {
 /* Extra Small Screens (Mobile Phones) */
 @media screen and (max-width: 480px) {
     .home h1 {
-        font-size: 3rem;
+        font-size: 2rem;
     }
 
     .home p {
