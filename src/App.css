@@ -274,3 +274,75 @@ body {
   .footer-links i {
     font-size: 5rem; /* Adjust icon size */
   }
+
+  @media screen and (max-width: 768px) {
+    body {
+        padding: 10px;
+    }
+
+    nav a {
+        font-size: 0.9rem;
+        margin: 0 10px;
+    }
+
+    .home h1 {
+        font-size: 2rem;
+    }
+
+    .home p {
+        font-size: 1rem;
+    }
+
+    .cta-button {
+        padding: 8px 15px;
+        font-size: 0.9rem;
+    }
+
+    .projects-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .project-card {
+        padding: 15px;
+    }
+
+    .footer-links i {
+        font-size: 4rem;
+    }
+}
+
+/* Extra Small Screens (Mobile Phones) */
+@media screen and (max-width: 480px) {
+    .home h1 {
+        font-size: 1.5rem;
+    }
+
+    .home p {
+        font-size: 0.9rem;
+    }
+
+    .cta-button {
+        padding: 6px 12px;
+        font-size: 0.8rem;
+    }
+
+    .about h1,
+    .projects h1,
+    .contact h1 {
+        font-size: 2rem;
+    }
+
+    .about p,
+    .projects p,
+    .contact p {
+        font-size: 1rem;
+    }
+
+    .project-card h3 {
+        font-size: 1.2rem;
+    }
+
+    .footer-links i {
+        font-size: 3.5rem;
+    }
+}
