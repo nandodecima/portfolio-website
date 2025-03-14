@@ -4,8 +4,13 @@ import '../App.css';
 const Projects = () => {
   const projects = [
     {
-      title: 'Music Collaboration Website',
-      description: 'A free platform for artists to collaborate online. Built with JavaScript, React, Node.js, and PostgreSQL.',
+      title: 'Personal Portfolio Website',
+      description: 'I designed and developed my personal portfolio website from the ground up to showcase my work, skills, and projects. Built with modern web technologies, the site features an intuitive layout, responsive design, and a clean aesthetic to provide an engaging user experience. This project demonstrates my ability to create functional, visually appealing web applications while emphasizing performance and usability.',
+      link: '#',
+    },
+    {
+      title: 'Gloss – Music Collaboration Platform',
+      description: 'Gloss is a web-based platform designed to help musicians, producers, and audio engineers connect and collaborate effortlessly. Users can upload tracks, exchange ideas, and work together in real-time, breaking down the barriers of remote music creation. With an intuitive interface and streamlined workflow, Gloss makes it easy to bring creative visions to life, whether you’re co-producing a song, giving feedback, or building something new with other artists.',
       link: '#',
     },
     
