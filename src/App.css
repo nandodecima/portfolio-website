@@ -245,6 +245,10 @@
     font-size: 1.0rem;
     line-height: 1.8;
   }
+  .contact a {
+    color: var(--soft-blue);
+    text-shadow: var(--glow);
+  }
   
   /* Footer */
   footer {
