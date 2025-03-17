@@ -66,9 +66,11 @@ const Contact = () => {
           <button type="submit">Send</button>
         </form>
       ) : (
-        <p>Thank you for your message! I'll get back to you soon.</p>
-      )}
-      <p>Feel free to reach out to me at <a href="mailto:hnandodecima@gmail.com">hnandodecima@gmail.com</a>.</p>
+        <div className="success-message">
+          <p>Thank you for your message!</p>
+          <p>I'll get back to you soon 🚀</p> 
+        </div>
+        )}
     </div>
   );
 };
