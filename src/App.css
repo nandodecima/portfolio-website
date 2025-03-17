@@ -286,6 +286,9 @@
   .contact-form button:hover {
     background-color: var(--soft-blue);
   }
+  .success-message h2 {
+    line-height: 0%;
+  }
   
   /* Footer */
   footer {
