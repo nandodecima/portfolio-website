@@ -45,8 +45,8 @@ const Contact = () => {
   return (
     <div className="page contact fade-in">
       <h1>Contact Me</h1>
-
-      {!submitted ? (
+      
+    {!submitted ? (
         <form className="contact-form" onSubmit={handleSubmit}>
           <label>
             Name:
@@ -67,10 +67,11 @@ const Contact = () => {
         </form>
       ) : (
         <div className="success-message">
-          <p>Thank you for your message!</p>
-          <p>I'll get back to you soon 🚀</p> 
+          <h2>Thank you for your message! </h2>
+          <p>I'll get back to you soon.</p> 
         </div>
-        )}
+      )}
+      <p>Feel free to reach out to me at <a href="mailto:hnandodecima@gmail.com">hnandodecima@gmail.com</a>.</p>
     </div>
   );
 };
