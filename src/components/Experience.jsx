@@ -14,7 +14,7 @@ const Experience = () => {
   - Building a <strong>music collaboration platform</strong> as a capstone project—launching soon!<br />
   - Gaining hands-on experience with <strong>problem-solving, algorithms, and scalable software design</strong>.<br />
   <br />
-  <strong>Mix/Mastering Engineer</strong><br />
+  <strong>Mix/Master Audio Engineer</strong><br />
   <em>April 2020 – Present</em><br />
   - Transformed raw recordings into <strong>professional, polished</strong> tracks.<br />
   - Worked with clients to <strong>understand their vision</strong> and exceed expectations.<br />
