@@ -6,7 +6,7 @@ const Footer = () => {
     <footer>
       <div className="footer-links fade-in">
         <a
-          href="https://www.linkedin.com/in/nando-decima-562487151/" // Replace with your LinkedIn URL
+          href="https://www.linkedin.com/in/nando-decima-562487151/" 
           target="_blank"
           rel="noopener noreferrer"
         >
