@@ -11,7 +11,7 @@ const Experience = () => {
   <strong>Software Engineering</strong><br />
   <em>Springboard Software Engineering Career Track </em><br />
   - Developing <strong>full-stack applications</strong> with <strong>JavaScript, React, Node.js, Express, and SQL</strong>.<br />
-  - Building a <strong>music collaboration platform</strong> as a capstone project—launching soon!<br />
+  - Built a <strong>music collaboration platform</strong> as a capstone project<br />
   - Gaining hands-on experience with <strong>problem-solving, algorithms, and scalable software design</strong>.<br />
   <br />
   <strong>Mix/Master Audio Engineer</strong><br />
