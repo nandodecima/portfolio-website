@@ -9,7 +9,7 @@ const Experience = () => {
       <p>
       <p>
   <strong>Software Engineering</strong><br />
-  <em>Springboard Software Engineering Career Track (Expected Completion: April 2025)</em><br />
+  <em>Springboard Software Engineering Career Track </em><br />
   - Developing <strong>full-stack applications</strong> with <strong>JavaScript, React, Node.js, Express, and SQL</strong>.<br />
   - Building a <strong>music collaboration platform</strong> as a capstone project—launching soon!<br />
   - Gaining hands-on experience with <strong>problem-solving, algorithms, and scalable software design</strong>.<br />
@@ -22,7 +22,7 @@ const Experience = () => {
   - Projects I've worked on have accumulated <strong>hundreds of millions of streams</strong> across major platforms.<br />
   <br />
   <strong>Car Sales Consultant</strong><br />
-  <em>Jimmie Johnson Chevrolet (Jan 2018 – April 2020)</em><br />
+  <em>Jimmie Johnson Chevrolet (Jan 2018 – Jan 2019)</em><br />
   - Learned the art of <strong>clear communication and problem-solving</strong> while helping customers find the right vehicle.<br />
   - Developed <strong>negotiation skills and customer-focused thinking</strong>, which now translate into building <strong>user-friendly software</strong>.<br />
   - Worked in a <strong>fast-paced, high-pressure</strong> environment—just like tech!<br />

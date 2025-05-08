@@ -19,7 +19,7 @@ const Projects = () => {
     },
     
     
-    // Add more projects here
+    
   ];
 
   return (
