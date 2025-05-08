@@ -15,7 +15,7 @@ const Projects = () => {
     },
     {
       title: 'Gloss – Music Collaboration Platform',
-      description: 'Gloss is a web-based platform designed to help musicians, producers, and audio engineers connect and collaborate effortlessly. Users can upload tracks, exchange ideas, and work together in real-time, breaking down the barriers of remote music creation. With an intuitive interface and streamlined workflow, Gloss makes it easy to bring creative visions to life, whether you’re co-producing a song, giving feedback, or building something new with other artists...Coming Soon!',
+      description: 'Gloss is a web-based platform designed to help musicians, producers, and audio engineers connect and collaborate effortlessly. Users can upload tracks, exchange ideas, and work together in real-time, breaking down the barriers of remote music creation. With an intuitive interface and streamlined workflow, Gloss makes it easy to bring creative visions to life, whether you’re co-producing a song, giving feedback, or building something new with other artists',
     },
     
     
