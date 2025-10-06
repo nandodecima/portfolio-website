@@ -3,15 +3,21 @@ import '../App.css';
 
 const Projects = () => {
   const projects = [
+    
     {
-      title: 'Personal Portfolio Website',
-      description: 'I designed and developed my personal portfolio website from the ground up to showcase my work, skills, and projects. Built with modern web technologies like react.js (vite), the site features an intuitive layout, responsive design, and a clean aesthetic to provide an engaging user experience.',
+      title: 'De Cima Law Firm',
+      description: 'I design and build scalable, modern web solutions that enhance client engagement and streamline internal workflows. I lead the development of the firm’s website, translating complex legal services into a clean, intuitive, and high-performing digital experience.',
       link: 'https://nandodecima-portfolio.netlify.app/',
     },
     {
       title: 'Space Battle Simulator',
       description: 'Space Battle Simulator is a simple yet fun web-based game where players and enemies exchange attacks at random with the press of a button. Each battle unfolds unpredictably, making every round a unique experience. This project highlights basic game logic, user interaction, and randomness in JavaScript. Additionally, it features interactive sound effects that I personally recorded and sampled, enhancing the immersive experience of the battle.',
       link:'https://space-battle-simulator.netlify.app/'
+    },
+    {
+      title: 'Personal Portfolio Website',
+      description: 'I designed and developed my personal portfolio website from the ground up to showcase my work, skills, and projects. Built with modern web technologies like react.js (vite), the site features an intuitive layout, responsive design, and a clean aesthetic to provide an engaging user experience.',
+      link: 'https://nandodecima-portfolio.netlify.app/',
     },
     {
       title: 'Gloss – Music Collaboration Platform',

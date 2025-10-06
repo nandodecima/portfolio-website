@@ -8,6 +8,15 @@ const Experience = () => {
       <h1>Experience</h1>
       <p>
       <p>
+      <strong>Software Engineer</strong><br />
+        <em>De Cima Law Firm</em><br />
+        - Leading the development of the firm’s <strong>official website</strong> using <strong>React, Node.js, Express, and MongoDB</strong>.<br />
+        - Implementing <strong>responsive UI/UX designs</strong> optimized for both desktop and mobile for improved accessibility and user experience.<br />
+        - Building <strong>secure, automated features</strong> like contact forms and backend integrations to streamline client communication.<br />
+        - Collaborating directly with partners and staff to translate business goals into <strong>functional, modern web solutions</strong>.<br />
+        - Gaining advanced experience in <strong>full-stack development, scalable architecture, and real-world deployment</strong>.<br />
+        <br />
+      
   <strong>Software Engineering</strong><br />
   <em>Springboard Software Engineering Career Track </em><br />
   - Developing <strong>full-stack applications</strong> with <strong>JavaScript, React, Node.js, Express, and SQL</strong>.<br />
