@@ -17,7 +17,7 @@ const Projects = () => {
     {
       title: 'Personal Portfolio Website',
       description: 'I designed and developed my personal portfolio website from the ground up to showcase my work, skills, and projects. Built with modern web technologies like react.js (vite), the site features an intuitive layout, responsive design, and a clean aesthetic to provide an engaging user experience.',
-      link: 'https://nandodecima-portfolio.netlify.app/',
+      link: 'https://decima-law-firm.netlify.app/',
     },
     {
       title: 'Gloss – Music Collaboration Platform',
