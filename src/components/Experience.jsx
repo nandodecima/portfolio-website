@@ -9,7 +9,7 @@ const Experience = () => {
       <p>
       <p>
       <strong>Software Engineer</strong><br />
-        <em>De Cima Law Firm</em><br />
+        <em>De Cima Law</em><br />
         - Leading the development of the firm’s <strong>official website</strong> using <strong>React, Node.js, Express, and MongoDB</strong>.<br />
         - Implementing <strong>responsive UI/UX designs</strong> optimized for both desktop and mobile for improved accessibility and user experience.<br />
         - Building <strong>secure, automated features</strong> like contact forms and backend integrations to streamline client communication.<br />

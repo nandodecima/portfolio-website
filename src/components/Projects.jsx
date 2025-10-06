@@ -5,7 +5,7 @@ const Projects = () => {
   const projects = [
     
     {
-      title: 'De Cima Law Firm',
+      title: 'De Cima Law',
       description: 'I design and build scalable, modern web solutions that enhance client engagement and streamline internal workflows. I lead the development of the firm’s website, translating complex legal services into a clean, intuitive, and high-performing digital experience.',
       link: 'https://decima-law-firm.netlify.app/',
     },

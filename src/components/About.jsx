@@ -12,7 +12,7 @@ const About = () => {
         That’s when I discovered software engineering. What started as a way to improve my creative tools became a full-blown passion 
         for building, problem-solving, and crafting intuitive digital experiences.
         <br /><br />
-        Today, I’m a <strong>Software Engineer at De Cima Law Firm</strong>, where I lead the development of the firm’s official website and internal tools. 
+        Today, I’m a <strong>Software Engineer at De Cima Law</strong>, where I lead the development of the firm’s official website and internal tools. 
         I design and implement <strong>modern, responsive applications</strong> using technologies like <strong>React, Node.js, Express, and MongoDB</strong>. 
         My focus is on building secure, scalable, and visually engaging web experiences that make a real impact on how the firm connects with clients.
         <br /><br />
