@@ -38,10 +38,11 @@ const Experience = () => {
   <br />
   <strong>Education</strong><br />
   <em>Arizona State University</em><br />
-  - Bachelor’s Degree in Computer Science (Pursuin)<br />
+  - Bachelor’s Degree in Computer Science <em>(Pursuing)</em><br />
   <br></br>
   <em>University of California, Santa Barbara</em><br />
   - Bachelor’s Degree in Art with a focus on Media & Technology<br />
+  <br></br>
   <em>pointblank Music School</em><br />
     - Mixing/Mastering Certification<br />
     - Sound Design Certification<br />
