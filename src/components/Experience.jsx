@@ -9,7 +9,7 @@ const Experience = () => {
       <p>
       <p>
          <strong>AI Training Manager</strong><br />
-        <em>micro1</em><br />
+        <em>micro1 Jan 2025 – Present</em><br />
         - Promoted to <strong>Senior Reviewer and Team Lead (M2)</strong>, overseeing quality and consistency across AI training workflows.<br />
         - Designing <strong>task prompts and evaluation rubrics</strong> used to train and assess large language models across professional domains.<br />
         - Applying domain expertise in <strong>audio production workflows</strong> to develop specialized AI training datasets.<br />
@@ -17,7 +17,7 @@ const Experience = () => {
         - Developing skills in <strong>precision thinking, structured evaluation, and human-AI collaboration</strong> at a professional level.<br />
         <br />
       <strong>Software Engineer</strong><br />
-        <em>De Cima Law</em><br />
+        <em>De Cima Law October 2024 – Present</em><br />
         - Leading the development of the firm’s <strong>official website</strong> using <strong>React, Node.js, Express, and MongoDB</strong>.<br />
         - Implementing <strong>responsive UI/UX designs</strong> optimized for both desktop and mobile for improved accessibility and user experience.<br />
         - Building <strong>secure, automated features</strong> like contact forms and backend integrations to streamline client communication.<br />
