@@ -10,7 +10,7 @@ const Experience = () => {
       <p>
          <strong>AI Training Manager</strong><br />
         <em>micro1 Jan 2025 – Present</em><br />
-        - Promoted to <strong>Senior Reviewer and Team Lead (M2)</strong>, overseeing quality and consistency across AI training workflows.<br />
+        - Promoted to <strong>Senior Reviewer and Team Lead</strong>, overseeing quality and consistency across AI training workflows.<br />
         - Designing <strong>task prompts and evaluation rubrics</strong> used to train and assess large language models across professional domains.<br />
         - Applying domain expertise in <strong>audio production workflows</strong> to develop specialized AI training datasets.<br />
         - Leading a team of reviewers, providing <strong>feedback, guidance, and quality control</strong> to ensure rubric accuracy and task integrity.<br />
