@@ -37,9 +37,11 @@ const Experience = () => {
   - Worked in a <strong>fast-paced, high-pressure</strong> environment—just like tech!<br />
   <br />
   <strong>Education</strong><br />
+  <em>Arizona State University</em><br />
+  - Bachelor’s Degree in Computer Science (Pursuin)<br />
+  <br></br>
   <em>University of California, Santa Barbara</em><br />
   - Bachelor’s Degree in Art with a focus on Media & Technology<br />
-  <br></br>
   <em>pointblank Music School</em><br />
     - Mixing/Mastering Certification<br />
     - Sound Design Certification<br />
